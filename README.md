@@ -8,8 +8,8 @@ Ideally the screenshot after attached in extent must be same as that of the orig
 Storing screenshot in project folder.
 
 <h3>Sample</h3>
+<code>
 package featureLibrary.nativeApps;
-
 import base.GenericWrappers;
 import com.cucumber.listener.Reporter;
 import cucumber.api.Scenario;
@@ -17,11 +17,9 @@ import org.apache.commons.codec.binary.Base64;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.remote.RemoteWebDriver;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.logging.Logger;
-
 public class ScreenShot {
 
     public static RemoteWebDriver driver;
@@ -45,7 +43,7 @@ public class ScreenShot {
         }
     }
 }
-
+</code>
 <h3>Environment Details</h3>
 Extent report Version used: 4.0.6
 Operating System and version: Windows 10, chrome 53
