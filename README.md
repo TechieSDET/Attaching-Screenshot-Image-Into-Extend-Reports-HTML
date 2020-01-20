@@ -8,7 +8,7 @@ Ideally the screenshot after attached in extent must be same as that of the orig
 Storing screenshot in project folder.
 
 <h3>Sample</h3>
-<code>
+<pre>
 package featureLibrary.nativeApps;
 import base.GenericWrappers;
 import com.cucumber.listener.Reporter;
@@ -43,7 +43,7 @@ public class ScreenShot {
         }
     }
 }
-</code>
+</pre>
 <h3>Environment Details</h3>
 Extent report Version used: 4.0.6
 Operating System and version: Windows 10, chrome 53
