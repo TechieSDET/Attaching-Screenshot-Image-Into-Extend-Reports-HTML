@@ -45,9 +45,11 @@ public class ScreenShot {
 }
 </pre>
 <h3>Environment Details</h3>
-Extent report Version used: 4.0.6
-Operating System and version: Windows 10, chrome 53
-JDK Version: 1.8
+Extent report Version used: 4.0.6<br>
+Operating System and version: Windows 10, chrome 53<br>
+JDK Version: 1.8<br>
 
+<h3>Screenshots</h3>
+![alt text]()
   
   
