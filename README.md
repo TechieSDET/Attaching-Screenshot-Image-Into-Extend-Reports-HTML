@@ -1,5 +1,5 @@
 <h3>Summary</h3>
-Goodbye to folder for storing screenshot. Everytime attaching the screenshot folder to clients reports, its seem big task and big storage. To reduce these, we using <h4>Base64screenshot</h4> method to attach screenshot in extent report html file.
+Goodbye to folder for storing screenshot. Everytime attaching the screenshot folder to clients reports, its seem big task and big storage. To reduce these, we using Base64screenshot method to attach screenshot in extent report html file.
 
 <h3>Expected Behavior</h3>
 Ideally the screenshot after attached in extent must be same as that of the original screenshot
@@ -50,6 +50,6 @@ Operating System and version: Windows 10, chrome 53<br>
 JDK Version: 1.8<br>
 
 <h3>Screenshots</h3>
-![alt text]()
+![alt text](https://github.com/codecunning/Extend-Report-Merge-Screenshot-Image-into-HTML/blob/master/MergeCodeScreenshot.png)
   
   
