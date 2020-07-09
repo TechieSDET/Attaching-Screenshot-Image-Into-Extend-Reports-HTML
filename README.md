@@ -8,7 +8,7 @@ Ideally the screenshot after attached in extent must be same as that of the orig
 Storing screenshot in project folder.
 
 <h3>Sample</h3>
-<pre>
+<pre class='highlight-html highlight'>
 package featureLibrary.nativeApps;
 import base.GenericWrappers;
 import com.cucumber.listener.Reporter;
