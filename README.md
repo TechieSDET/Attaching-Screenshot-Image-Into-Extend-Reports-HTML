@@ -10,6 +10,7 @@ Storing screenshot in project folder.
 <h3>Sample</h3>
 <pre class='highlight-html highlight'>
 <code>
+```java
 package featureLibrary.nativeApps;
 import base.GenericWrappers;
 import com.cucumber.listener.Reporter;
