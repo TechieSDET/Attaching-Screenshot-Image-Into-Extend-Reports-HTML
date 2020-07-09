@@ -9,6 +9,7 @@ Storing screenshot in project folder.
 
 <h3>Sample</h3>
 <pre class='highlight-html highlight'>
+<code>
 package featureLibrary.nativeApps;
 import base.GenericWrappers;
 import com.cucumber.listener.Reporter;
@@ -43,6 +44,7 @@ public class ScreenShot {
         }
     }
 }
+</code>
 </pre>
 <h3>Environment Details</h3>
 Extent report Version used: 4.0.6<br>
